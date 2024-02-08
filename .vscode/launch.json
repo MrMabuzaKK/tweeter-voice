@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JosVoiceTweet",
+            "request": "launch",
+            "mainClass": "JosVoiceTweet.JosVoiceTweet",
+            "projectName": "JosVoiceTweet"            
+        }
+    ]
+}
